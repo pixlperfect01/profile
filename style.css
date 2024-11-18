@@ -1,7 +1,11 @@
-body{ background-image: linear-gradient(to right top, #ea80fc, #e771fc, #e361fb, #df4ffb, #db3afa, #d62dfa, #d11efb, #cb00fb, #c300fc, #bb00fd, #b300fe, #aa00ff);
+body{ background-image: linear-gradient(to right top, #68f77b, #72e881, #a9e872, #d2e872, #e8d872, #e8bb72, #e8a172, #e88d72, #e87272, #e8727c, #e872d2, #af72e8);
         
 }
 
 p{
         font-size:20px;
+}
+
+.px-nav {
+        padding-left: 16px;
 }
