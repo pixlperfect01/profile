@@ -9,3 +9,7 @@ p{
 .px-nav {
         padding-left: 16px;
 }
+
+.card .card-action a:not(.btn):not(.btn-large):not(.btn-small):not(.btn-large):not(.btn-floating) {
+        text-transform: none !important;
+}
